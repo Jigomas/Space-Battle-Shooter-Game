@@ -1,5 +1,5 @@
-bash ```
-
+## Link to the early build of the game
+ ```
 https://play.unity.com/en/games/6190ff36-80b6-42f0-b317-c63928df67ce/build
 ```
 # BattleXSpace
